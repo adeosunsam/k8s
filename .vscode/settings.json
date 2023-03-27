@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///Users/samuel.adeosun/Documents/microservice/K8S/platforms-depl.yaml"
+    }
+}
